@@ -1,0 +1,1 @@
+# MI50-gfx906-ollamma
